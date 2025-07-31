@@ -1,5 +1,5 @@
 ---
-name: Enhancement Suggestion
+name: md Enhancement Suggestion
 about: Melde einen Verbesserungsvorschlag, eine mögliche Erweiterung, eine fehlende Funktion etc.
 title: "[ENHANCEMENT]"
 labels: enhancement
