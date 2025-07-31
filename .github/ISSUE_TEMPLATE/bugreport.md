@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: mdBugReport
 about: Melde einen Fehler.
 title: "[BUG]"
 labels: bug
